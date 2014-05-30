@@ -71,3 +71,26 @@ Daily Scrum
 1. Semalam saya membuat judul & slide 1
 2. Hari ini saya membuat slogan & list
 3. Saya ada kendala pada saat eksekusi proyek
+
+----------------------------------------
+30/5 
+Daily Scrum
+(Arden Liw):
+1. Semalam saya memperbaiki error & membuat template
+2. Hari ini saya mencoba menambah image background
+3. Saya ada kendala pada letak image agar tampil image background pada proyek
+
+(Paulus Cuaca):
+1. Semalam saya membuat slide latar belakang
+2. Hari ini saya membuat tujuan dan manfaat
+3. Saya tidak ada kendala
+
+(Singgih Chongronegoro):
+1. Semalam saya membuat slide pengertian konsep produk eco green
+2. Hari ini saya membuat slide masalah dan sedikit modifikasi
+3. Saya tidak ada kendala
+
+(Tonggo Siahaan):
+1. Semalam saya membuat slogan & list
+2. Hari ini saya menambah slide & menambahkan image
+3. Saya ada kendala pada saat menambahkan image pada proyek
