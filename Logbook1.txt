@@ -94,3 +94,83 @@ Daily Scrum
 1. Semalam saya membuat slogan & list
 2. Hari ini saya menambah slide & menambahkan image
 3. Saya ada kendala pada saat menambahkan image pada proyek
+
+
+SPRINT
+------
+Sprint 2: 
+31/5 - 2/6
+Scrummaster: Tonggo(10.111.3032)
+
+
+
+Progress Harian
+------------------------------------
+
+31/5 
+Daily Scrum
+(Arden Liw):
+1. 
+2. 
+
+(Paulus Cuaca):
+1. 
+2. 
+
+(Singgih Chongronegoro):
+1. 
+2. 
+
+(Tonggo Siahaan):
+1. 
+2. 
+
+
+----------------------------------------
+1/6 
+Daily Scrum
+(Arden Liw):
+1. 
+2. 
+
+(Paulus Cuaca):
+1. 
+2. 
+
+(Singgih Chongronegoro):
+1. 
+2. 
+
+(Tonggo Siahaan):
+1. 
+2. 
+
+
+----------------------------------------
+2/6 
+Daily Scrum
+(Arden Liw):
+1. 
+2. 
+
+(Paulus Cuaca):
+1. 
+2. 
+
+(Singgih Chongronegoro):
+1. 
+2. 
+
+(Tonggo Siahaan):
+1. 
+2. 
+
+
+----------------------------------------
+
+
+
+
+
+
+
