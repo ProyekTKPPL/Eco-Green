@@ -110,8 +110,9 @@ Progress Harian
 31/5 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. semalam saya menambahkan image background
+2. hari ini saya mencoba menghilangkan latar putih pada image logo serta menyesuaikan posisinya
+3. saya ada kendala pada saat mengedit stylenya dan posisi image background serta ukurannya
 
 (Paulus Cuaca):
 1. 
@@ -122,16 +123,17 @@ Daily Scrum
 2. 
 
 (Tonggo Siahaan):
-1. 
-2. 
-
+1. Hari saya Menggunakan Slide save water, Conserving water Indoors & Conserving water Outdors
+2. Hari ini saya memperbiki susunan slide lebih teratur
+3. Saya tidak menemukan kendala hari ini
 
 ----------------------------------------
 1/6 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. Semalam saya mengerjakan: menghilangkan latar putih pada image yang telah dimasukkan
+2. hari ini saya menambahkan list style image berbentuk daun
+3. saya ada kendala pada saat mengedit gambar & menyesuaikan ukuran gambar sesuai dengan list item yang ada
 
 (Paulus Cuaca):
 1. 
@@ -142,8 +144,8 @@ Daily Scrum
 2. 
 
 (Tonggo Siahaan):
-1. 
-2. 
+1.Hari ini Memperbaiki susunan slide  
+2.Saya Tidak Menemukan kendala
 
 
 ----------------------------------------
@@ -162,8 +164,8 @@ Daily Scrum
 2. 
 
 (Tonggo Siahaan):
-1. 
-2. 
+1.Hari ini saya menambahkan slide green bebas rokok
+2.Saya mempunyai kendala ketika melakukan pulling 
 
 
 ----------------------------------------
