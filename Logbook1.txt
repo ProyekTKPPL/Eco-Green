@@ -110,9 +110,9 @@ Progress Harian
 31/5 
 Daily Scrum
 (Arden Liw):
-1. semalam saya menambahkan image background
-2. hari ini saya mencoba menghilangkan latar putih pada image logo serta menyesuaikan posisinya
-3. saya ada kendala pada saat mengedit stylenya dan posisi image background serta ukurannya
+1. semalam saya menambahkan image background pada slidebox
+2. hari ini saya menyesuaikan ukuran background dengan slidebox pada main style & perbaikan tag/code pada jade
+3. saya ada sedikit kendala pada saat saya hanya mengedit gambarnya, agak sedikit susah menyesuaikan ukuran background karena belum mengerti pada bagian main style
 
 (Paulus Cuaca):
 1. 
@@ -131,9 +131,9 @@ Daily Scrum
 1/6 
 Daily Scrum
 (Arden Liw):
-1. Semalam saya mengerjakan: menghilangkan latar putih pada image yang telah dimasukkan
-2. hari ini saya menambahkan list style image berbentuk daun
-3. saya ada kendala pada saat mengedit gambar & menyesuaikan ukuran gambar sesuai dengan list item yang ada
+1. saya menyesuaikan ukuran background dengan slidebox pada main style & perbaikan tag/code pada jade
+2. hari ini saya mencoba menghilangkan latar putih pada image logo1 serta menyesuaikan posisinya & sedikit modifikasi
+3. sedikit kendala dengan main style nya
 
 (Paulus Cuaca):
 1. 
@@ -152,8 +152,9 @@ Daily Scrum
 2/6 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. semalam saya menghilangkan latar putih pada image logo1 serta menyesuaikan posisinya & sedikit modifikasi
+2. hari ini saya menambahkan list style image berbentuk daun & perbaikan susunan code
+3. saya ada kendala pada saat mengedit gambar & menyesuaikan ukuran gambar sesuai dengan list item 
 
 (Paulus Cuaca):
 1. 
