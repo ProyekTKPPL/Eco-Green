@@ -147,9 +147,9 @@ Daily Scrum
 3. 
 
 (Tonggo Siahaan):
-1.Hari ini Memperbaiki susunan slide  
-2.Saya Tidak Menemukan kendala
-3.
+1.
+2.Hari ini Memperbaiki susunan slide  
+3.Saya Tidak Menemukan kendala
 
 
 ----------------------------------------
@@ -171,9 +171,9 @@ Daily Scrum
 3. 
 
 (Tonggo Siahaan):
-1.Hari ini saya menambahkan slide green bebas rokok
-2.Saya mempunyai kendala ketika melakukan pulling 
-3.
+1.Hari ini Memperbaiki susunan slide
+2.Hari ini saya menambahkan slide green bebas rokok 
+3.Saya mempunyai kendala ketika melakukan pulling
 
 ----------------------------------------
 
