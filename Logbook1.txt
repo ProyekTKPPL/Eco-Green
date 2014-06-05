@@ -213,7 +213,7 @@ Daily Scrum
 Progress Harian
 ------------------------------------
 
-3/6 
+4/6 
 Daily Scrum
 (Arden Liw): 
 1.semalam saya memodifikasi slide agar enak dilihat.
@@ -226,14 +226,36 @@ Daily Scrum
 3.saya tidak ada kendala
 
 (Singgih Chongronegoro):
-1. 
+1.
 2.
-3. 
+3.
 
 (Tonggo Siahaan):
 1. 
 2.hari ini saya merge data head & origin master
 3.?
 
+Progress Harian
+------------------------------------
 
+5/6 
+Daily Scrum
+(Arden Liw): 
+1.
+2.
+3.
 
+(Paulus Cuaca):
+1.
+2.
+3.
+
+(Singgih Chongronegoro):
+1. 
+2.
+3. 
+
+(Tonggo Siahaan):
+1. 
+2.
+3.
