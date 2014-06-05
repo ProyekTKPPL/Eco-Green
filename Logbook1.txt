@@ -252,8 +252,8 @@ Daily Scrum
 
 (Singgih Chongronegoro):
 1. 
-2.
-3. 
+2.Hari ini saya menambah bentuk bullet dari slide manfaat bersepeda.
+3.saya ada kendala dalam mengubah bentuk bullet pada list slide. 
 
 (Tonggo Siahaan):
 1. 
