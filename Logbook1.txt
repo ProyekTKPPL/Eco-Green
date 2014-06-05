@@ -241,14 +241,14 @@ Progress Harian
 5/6 
 Daily Scrum
 (Arden Liw): 
-1.
-2.
-3.
+1.semalam saya sedikit memperbaiki file index.jade
+2.hari ini saya memperbaiki error pada slide
+3.saya tidak ada kendala.
 
 (Paulus Cuaca):
-1.
-2.
-3.
+1.semalam saya memperbaiki slide say no to plastic 
+2.hari ini saya memperbaiki slide say no to plastic dan menghapus paragraf double
+3.saya tidak ada kendala.
 
 (Singgih Chongronegoro):
 1. 
@@ -256,6 +256,32 @@ Daily Scrum
 3.saya ada kendala dalam mengubah bentuk bullet pada list slide. 
 
 (Tonggo Siahaan):
-1. 
+1. semalam saya merge data head & origin master
+2. hari ini saya merge data
+3. saya ada kendala dalam merge data karena error 
+
+Progress Harian
+------------------------------------
+
+6/6 
+Daily Scrum
+(Arden Liw):
+1.
 2.
 3.
+
+(Paulus cuaca):
+1.
+2.
+3.
+
+(Singgih Chongronegoro):
+1.
+2.
+3.
+
+(Tonggo Siahaan):
+1.
+2.
+3.
+ 
