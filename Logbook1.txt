@@ -110,67 +110,152 @@ Progress Harian
 31/5 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. semalam saya menambahkan image background pada slidebox
+2. hari ini saya menyesuaikan ukuran background dengan slidebox pada main style & perbaikan tag/code pada jade
+3. saya ada sedikit kendala pada saat saya hanya mengedit gambarnya, agak sedikit susah menyesuaikan ukuran background karena belum mengerti pada bagian main style
 
 (Paulus Cuaca):
-1. 
-2. 
+1. semalam saya menambahkan slide tujuan dan manfaat eco green
+2. hari ini saya menambahkan slide say no to plastik
+3. saya ada sedikit kendala dalam mencari sumber referensi yang ada untuk eco green
 
 (Singgih Chongronegoro):
 1. 
 2. 
 
 (Tonggo Siahaan):
-1. 
-2. 
-
+1. Hari saya Menggunakan Slide save water, Conserving water Indoors & Conserving water Outdors
+2. Hari ini saya memperbiki susunan slide lebih teratur
+3. Saya tidak menemukan kendala hari ini
 
 ----------------------------------------
 1/6 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. saya menyesuaikan ukuran background dengan slidebox pada main style & perbaikan tag/code pada jade
+2. hari ini saya mencoba menghilangkan latar putih pada image logo1 serta menyesuaikan posisinya & sedikit modifikasi
+3. sedikit kendala dengan main style nya
 
 (Paulus Cuaca):
-1. 
-2. 
+1.semalam saya menambahkan slide say no to plastik
+2.hari ini saya menambahkan slide mother i wanna ride my bike
+3.saya tidak ada kendala
 
 (Singgih Chongronegoro):
 1. 
-2. 
+2.
+3. 
 
 (Tonggo Siahaan):
-1. 
-2. 
+1.
+2.Hari ini Memperbaiki susunan slide  
+3.Saya Tidak Menemukan kendala
 
 
 ----------------------------------------
 2/6 
 Daily Scrum
 (Arden Liw):
-1. 
-2. 
+1. semalam saya menghilangkan latar putih pada image logo1 serta menyesuaikan posisinya & sedikit modifikasi
+2. hari ini saya menambahkan list style image berbentuk daun & perbaikan susunan code
+3. saya ada kendala pada saat mengedit gambar & menyesuaikan ukuran gambar sesuai dengan list item 
 
 (Paulus Cuaca):
-1. 
-2. 
+1. semalam saya menambah slide mother i wanna ride my bike
+2. saya menambah slide manfaat bersepeda
+3. saya tidak ada kendala
 
 (Singgih Chongronegoro):
 1. 
-2. 
+2.
+3. 
 
 (Tonggo Siahaan):
-1. 
-2. 
-
+1.Hari ini Memperbaiki susunan slide
+2.Hari ini saya menambahkan slide green bebas rokok 
+3.Saya mempunyai kendala ketika melakukan pulling
 
 ----------------------------------------
 
+SPRINT
+------
+Sprint 3: 
+3/6 - 6/6
+Scrummaster: Paulus(10.111.0893)
 
 
 
+Progress Harian
+------------------------------------
 
+3/6 
+Daily Scrum
+(Arden Liw):
+1.semalam saya menambahkan list style image berbentuk daun serta memperbaiki susunan code
+2.hari ini saya mengerjakan tampilan slide, modifikasi agar enak dilihat
+3.saya ada kendala saat mengerjakan tampilan slide 
 
+(Paulus Cuaca):
+1.semalam saya menambahkan slide manfaat bersepeda . 
+2.hari ini saya menambahkan urutan pada slide manfaat bersepeda
+3. saya tidak ada kendala
 
+(Singgih Chongronegoro):
+1. 
+2.
+3. 
+
+(Tonggo Siahaan):
+1. 
+2.
+3.
+
+Progress Harian
+------------------------------------
+
+4/6 
+Daily Scrum
+(Arden Liw): 
+1.semalam saya memodifikasi slide agar enak dilihat.
+2.hari ini saya sedikit memperbaiki file index.jade
+3.saya ada kendala dalam memperbaiki slide yang rusak akibat merge
+
+(Paulus Cuaca):
+1.semalam saya menambahkan urutan pada slide manfaat bersepeda  
+2.hari ini saya memperbaiki slide say no to plastic menjadi lebih bagus. 
+3.saya tidak ada kendala
+
+(Singgih Chongronegoro):
+1.
+2.
+3.
+
+(Tonggo Siahaan):
+1. 
+2.hari ini saya merge data head & origin master
+3.?
+
+Progress Harian
+------------------------------------
+
+5/6 
+Daily Scrum
+(Arden Liw): 
+1.
+2.
+3.
+
+(Paulus Cuaca):
+1.
+2.
+3.
+
+(Singgih Chongronegoro):
+1. 
+2.
+3. 
+
+(Tonggo Siahaan):
+1. 
+2.
+3.

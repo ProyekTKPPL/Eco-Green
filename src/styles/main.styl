@@ -2,9 +2,10 @@
 
 // variables!
 
-slide_width = 640px
-slide_height = 480px
-slide_background = url('../images/bgImage.jpg')
+slide_width = 700px
+slide_height = 540px
+slide_background = url('../images/bg1.jpg')
+warna = #FFA
 
 slide_transition_length = .6s
 slide_transition_easing = ease
@@ -69,7 +70,8 @@ article
   left: 50%
   margin-left: (slide_width / 2) * -1
   background: slide_background
-  background-size: 100% 100%
+  background-position:center
+  background-size: cover
   padding: 40px
   border-radius: 0
   @media print
@@ -162,23 +164,27 @@ body
   font-family: helvetica, arial, sans-serif
   font-size: 18px
   color: #404040
+  text-shadow: -2px 0px warna, 2px 0px warna, 0px 2px warna, 0px -2px warna
 
 h1
   font-size: 72px
   line-height: 82px
   letter-spacing: -2px
   margin-bottom: 16px
+  text-shadow: 1px 1px #FFF, -1px -1px #333
 
 h2
   font-size: 42px
   letter-spacing: -1px
   margin-bottom: 8px
+  text-shadow: 1px 1px #FFF, -1px -1px #333
 
 h3
   font-size: 24px
   font-weight: normal
   margin-bottom: 24px
   color: #606060
+  text-shadow: 1px 1px #FFF, -1px -1px #333
 
 hr
   visibility: hidden
@@ -197,3 +203,8 @@ p
 a
   color: #0089f3
   text-decoration: none
+  
+pre#kelompok
+  background-color:#070
+  text-shadow: 1px 1px #FFF, -1px -1px #030
+  opacity:0.85
