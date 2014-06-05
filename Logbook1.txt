@@ -147,9 +147,9 @@ Daily Scrum
 3. 
 
 (Tonggo Siahaan):
-1.Hari ini Memperbaiki susunan slide  
-2.Saya Tidak Menemukan kendala
-3.
+1.
+2.Hari ini Memperbaiki susunan slide  
+3.Saya Tidak Menemukan kendala
 
 
 ----------------------------------------
@@ -171,9 +171,9 @@ Daily Scrum
 3. 
 
 (Tonggo Siahaan):
-1.Hari ini saya menambahkan slide green bebas rokok
-2.Saya mempunyai kendala ketika melakukan pulling 
-3.
+1.Hari ini Memperbaiki susunan slide
+2.Hari ini saya menambahkan slide green bebas rokok 
+3.Saya mempunyai kendala ketika melakukan pulling
 
 ----------------------------------------
 
@@ -197,19 +197,65 @@ Daily Scrum
 
 (Paulus Cuaca):
 1.semalam saya menambahkan slide manfaat bersepeda . 
-2.
-3. 
+2.hari ini saya menambahkan urutan pada slide manfaat bersepeda
+3. saya tidak ada kendala
 
 (Singgih Chongronegoro):
 1. 
-2. 
+2.
+3. 
 
 (Tonggo Siahaan):
 1. 
-2. 
+2.
+3.
 
+Progress Harian
+------------------------------------
 
+4/6 
+Daily Scrum
+(Arden Liw): 
+1.semalam saya memodifikasi slide agar enak dilihat.
+2.hari ini saya sedikit memperbaiki file index.jade
+3.saya ada kendala dalam memperbaiki slide yang rusak akibat merge
 
+(Paulus Cuaca):
+1.semalam saya menambahkan urutan pada slide manfaat bersepeda  
+2.hari ini saya memperbaiki slide say no to plastic menjadi lebih bagus. 
+3.saya tidak ada kendala
 
+(Singgih Chongronegoro):
+1.
+2.
+3.
 
+(Tonggo Siahaan):
+1. 
+2.hari ini saya merge data head & origin master
+3.?
 
+Progress Harian
+------------------------------------
+
+5/6 
+Daily Scrum
+(Arden Liw): 
+1.
+2.
+3.
+
+(Paulus Cuaca):
+1.
+2.
+3.
+
+(Singgih Chongronegoro):
+1. 
+2.
+3. 
+
+(Tonggo Siahaan):
+1. 
+2.
+3.
