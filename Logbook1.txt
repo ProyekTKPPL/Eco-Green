@@ -206,9 +206,9 @@ Daily Scrum
 3. 
 
 (Tonggo Siahaan):
-1. 
-2.
-3.
+1. Hari ini saya menambahkan slide penutup, sllide ahir
+2.Saya melakukan merge dan memperbaiki siyntax yang error
+3. Saya mengalami masalah pada saat push
 
 Progress Harian
 ------------------------------------
@@ -231,9 +231,9 @@ Daily Scrum
 3.
 
 (Tonggo Siahaan):
-1. 
-2.hari ini saya merge data head & origin master
-3.?
+1.hari ini saya merge data head & origin master
+2.Memperbaiki susunan slide
+3.saya mengalami kesulitan pada merge push dan pull
 
 Progress Harian
 ------------------------------------
@@ -256,7 +256,7 @@ Daily Scrum
 3.saya ada kendala dalam mengubah bentuk bullet pada list slide. 
 
 (Tonggo Siahaan):
-1. semalam saya merge data head & origin master
+1. hari ini  saya merge data head & origin master
 2. hari ini saya merge data
 3. saya ada kendala dalam merge data karena error 
 
