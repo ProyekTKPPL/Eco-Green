@@ -120,8 +120,9 @@ Daily Scrum
 3. saya ada sedikit kendala dalam mencari sumber referensi yang ada untuk eco green
 
 (Singgih Chongronegoro):
-1. 
-2. 
+1. semalam saya membuat slide masalah dan sedikit modifikasi
+2. hari ini saya menambahkan slide hemat listrik dan save enrironment
+3. Saya tidak menemukan kendala hari ini
 
 (Tonggo Siahaan):
 1. Hari saya Menggunakan Slide save water, Conserving water Indoors & Conserving water Outdors
@@ -142,9 +143,9 @@ Daily Scrum
 3.saya tidak ada kendala
 
 (Singgih Chongronegoro):
-1. 
-2.
-3. 
+1.semalam saya menambahkan slide hemat listrik dan save enrironment
+2.hari ini saya menambahkan slide resapan biopori
+3.saya tidak ada kendala
 
 (Tonggo Siahaan):
 1.
@@ -166,9 +167,9 @@ Daily Scrum
 3. saya tidak ada kendala
 
 (Singgih Chongronegoro):
-1. 
-2.
-3. 
+1. semalam saya menambahkan slide resapan biopori
+2. hari ini saya menambahkan slide roof green
+3. saya tidak ada kendala
 
 (Tonggo Siahaan):
 1.Hari ini Memperbaiki susunan slide
@@ -201,9 +202,9 @@ Daily Scrum
 3. saya tidak ada kendala
 
 (Singgih Chongronegoro):
-1. 
-2.
-3. 
+1. Semalam saya menambahkan slide roof green
+2. hari ini saya
+3. Mati lampu
 
 (Tonggo Siahaan):
 1. Hari ini saya menambahkan slide penutup, sllide ahir
@@ -226,9 +227,9 @@ Daily Scrum
 3.saya tidak ada kendala
 
 (Singgih Chongronegoro):
-1.
-2.
-3.
+1.Semalam saya
+2.Hari ini saya melakukan merge akibat bentrok
+3.Kendala saya sulit untuk melakukan merge kembali
 
 (Tonggo Siahaan):
 1.hari ini saya merge data head & origin master
@@ -251,7 +252,7 @@ Daily Scrum
 3.saya tidak ada kendala.
 
 (Singgih Chongronegoro):
-1. 
+1.Semalam saya melakukan merge 
 2.Hari ini saya menambah bentuk bullet dari slide manfaat bersepeda.
 3.saya ada kendala dalam mengubah bentuk bullet pada list slide. 
 
